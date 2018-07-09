@@ -1,3 +1,7 @@
 <?php
-	echo "abc";
+echo "abc";
+
+$arr = [
+	0 => 'qwe',
+];
 ?>
