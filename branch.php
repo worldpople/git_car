@@ -1,3 +1,5 @@
 <?php
-	echo "abc";
+echo "abc";
+
+$str = "123";
 ?>
