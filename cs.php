@@ -4,4 +4,16 @@ echo "3";
 
 $str = "这是一次最美的旅行";
 echo $str;
+echo "3";
+
+$str = "这是一次最美的旅行";
+echo $str;
+echo "3";
+
+$str = "这是一次最美的旅行";
+echo $str;
+echo "3";
+
+$str = "这是一次最美的旅行";
+echo $str;
 ?>
