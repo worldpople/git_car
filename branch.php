@@ -1,5 +1,8 @@
 <?php
 echo "abc";
 
-$str = "123";
+$arr = [
+	0 => 'qwe',
+];
+
 ?>
